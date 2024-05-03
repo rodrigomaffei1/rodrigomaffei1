@@ -1,4 +1,4 @@
-## Ola, Eu sou o Rodrigo Maffei, estudante de programação.
+## Ola, Eu sou o Rodrigo Maffei, Atualmente estudando Python
 
 - Estou estudando Python
 - Trabalhei com html e css
